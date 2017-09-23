@@ -25,7 +25,7 @@ SECRET_KEY = '*-g-#0uv#y+sk8%ct5vi)*8y18d_*cq6c2h+g8(iv3cx=fq$k6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wangweipainst.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
